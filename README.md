@@ -24,7 +24,7 @@ This project fetches historical F1 race data — including tire compounds, weath
 1. **Clone the repository** (or navigate to the project directory):
 
    ```bash
-   cd "random project"
+   cd "F1 Lap Predictor"
    ```
 
 2. **Create and activate a virtual environment** (recommended):
